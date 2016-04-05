@@ -1,0 +1,23 @@
+{
+  "name": "merchbee/amazon-mws",
+  "authors": [
+    {
+      "name": "Matej Gasperic",
+      "email": "matej@pankped.si"
+    }
+  ],
+  "keywords": [
+    "amazon",
+    "mws",
+    "api",
+    "products"
+  ],
+  "require": {
+    "php": ">=5.3.3"
+  },
+  "autoload": {
+    "classmap": [
+      "src/"
+    ]
+  }
+}
